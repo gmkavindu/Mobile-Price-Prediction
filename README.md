@@ -1,4 +1,4 @@
-# Project Title
+# Mobile Price Prediction
 
 This project contains the code for my Google Colab project.
 
